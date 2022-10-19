@@ -5,7 +5,7 @@
 		"transactions": [
 			{
 				"hasInfo": true,
-				"key": "5168757394015046980|59030952834DB",
+				"key": "5168757394015046980",
 				"card": "5046",
 				"amount": -1000,
 				"amountCurrency": "грн",
